@@ -1,7 +1,5 @@
 <?php
 
-echo "Estou testando o servidor interno e nativo do PHP";
+echo 2 + 4;
 
-echo "<br/>";
-
-echo "<h1>Título renderizado através do PHP </h1>";
+echo "Estou usando o servidor nativo do PHP";
