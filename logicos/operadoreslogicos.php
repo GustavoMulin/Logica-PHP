@@ -1,0 +1,25 @@
+<?php
+
+    /*  OPERADORES LÓGICOS
+    
+    AND (&&) / OR (||)
+
+    */
+  
+    
+ /* 
+    TABELA VERDADE
+
+    FALSO E VERDADEIRO = FALSE
+    VERDADEIRO E FALSO = FALSE
+    VERDADEIRO E VERDADEIRO = TRUE
+    FALSO E FALSO = FALSE
+
+    ------ / -------
+
+    FALSO OU VERDADEIRO = TRUE
+    VERDADEIRO OU FALSO - TRUE
+    FALSO OU FALSO = FALSE
+    VERDADEIRO OU VERDADEIRO = TRUE
+
+ */     
