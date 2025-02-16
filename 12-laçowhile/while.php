@@ -12,6 +12,7 @@ $contador = 0;
 while($contador < 5) {
     echo $contador . PHP_EOL;
     $contador++;
+    (++) é um operador de incremento que adiciona 1 ao valor de uma variável. 
 }
 */
 
